@@ -1,0 +1,259 @@
+{
+  "name": "Breakfree‘s app library",
+  "subtitle": "",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/vtr1wwj.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/jcZAs1b.png",
+  "apps": [
+    {
+      "name": "Nicegram",
+      "bundleIdentifier": "app.nicegram",
+      "marketplaceID": "",
+      "developerName": ".",
+      "subtitle": "Telegram tweak",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/rxADhM4.png",
+      "tintColor": "#7f7f7f",
+      "category": "social",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysUsageDescription": "When you send your location to your friends, Nicegram needs access to show them a map. You also need this to send locations from an Apple Watch.",
+          "NSSiriUsageDescription": "You can use Siri to send messages.",
+          "NSCameraUsageDescription": "We need this so that you can take and share photos and videos.",
+          "NSMotionUsageDescription": "When you send your location to your friends, Nicegram needs access to show them a map.",
+          "NSPhotoLibraryAddUsageDescription": "We use access to your photo library so you can attach and send photos and videos from your device in chats.",
+          "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request.",
+          "NSMicrophoneUsageDescription": "We need this so that you can record and share voice messages and videos with sound.",
+          "NSLocationWhenInUseUsageDescription": "When you send your location to your friends, Nicegram needs access to show them a map.",
+          "NSFaceIDUsageDescription": "You can use Face ID to unlock the app.",
+          "NSContactsUsageDescription": "Nicegram stores your contacts heavily encrypted in the cloud to let you connect with your friends across all your devices.",
+          "NSPhotoLibraryUsageDescription": "We use access to your photo library so you can attach and send photos and videos from your device in chats."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "marketplaceID": "",
+      "developerName": ".",
+      "subtitle": "Instagram tweak",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/NJ6k7DI.png",
+      "tintColor": "#6156e2",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "RespringApp",
+      "bundleIdentifier": "com.respring.app",
+      "marketplaceID": "",
+      "developerName": ".",
+      "subtitle": "Resprings your device",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/mBa9gS3.png",
+      "tintColor": "#7f7f7f",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "marketplaceID": "",
+      "developerName": ".",
+      "subtitle": "Reddit tweak ",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/JqP9faY.png",
+      "tintColor": "#4786fc",
+      "category": "social",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to save media or to select images to upload for sharing.",
+          "NSLocationWhenInUseUsageDescription": "Checked once to calculate sunset/sunrise times for the location.",
+          "NSCameraUsageDescription": "Used to take photos to upload for sharing.",
+          "NSPhotoLibraryAddUsageDescription": "Save media to photo library.",
+          "NSMotionUsageDescription": "Detect rotations in Media Viewer and offer corresponding options.",
+          "NSFaceIDUsageDescription": "Unlock Apollo when re-opening in order to prevent unauthorized access."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": ".",
+      "subtitle": "Spotify premium for free!",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/ZRAFVFW.png",
+      "tintColor": "#1cd464",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Bunny",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "marketplaceID": "",
+      "developerName": "",
+      "subtitle": "Discord with custom plugins and",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/uGK5ytQ.png",
+      "tintColor": "#6156e2",
+      "category": "social",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+          "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+          "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+          "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+          "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+          "NSLocationAlwaysUsageDescription": "To enable services that require location",
+          "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+          "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+          "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+          "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "marketplaceID": "",
+      "developerName": ".",
+      "subtitle": "Another signer!",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/LKJ8q0Z.png",
+      "tintColor": "#4ca4f4",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "点允许，才能使用。",
+          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
+          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
+          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
+          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "",
+      "subtitle": "Great signer!",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/gNT8vea.png",
+      "tintColor": "#7736c8",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "",
+      "subtitle": "Youtube without ads",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/kfWXjta.png",
+      "tintColor": "#fc0434",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
